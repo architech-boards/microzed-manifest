@@ -31,5 +31,6 @@
     <project
         name        = "meta-microzed"
         remote      = "yoctoproject"
+        revision    = ""
     />
 </manifest>
