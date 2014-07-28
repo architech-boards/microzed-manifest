@@ -30,7 +30,7 @@
     />
     <project
         name        = "meta-microzed"
-        remote      = "yoctoproject"
-        revision    = "72a423893550858397a6ef1dbd4bcef1b951829a"
+        remote      = "architech-boards"
+        revision    = "522f5bde0375dcd89f8efbbec8c1fe5538795079"
     />
 </manifest>
