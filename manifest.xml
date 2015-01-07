@@ -26,7 +26,7 @@
     <project
         name        = "meta-xilinx"
         remote      = "yoctoproject"
-        revision    = "510b7a9d8d5dda07120df5866507742a626478c1"
+        revision    = "7f759048bb0aeef3c0b3938be81d2bcade7acb7e"
     />
     <project
         name        = "meta-microzed"
