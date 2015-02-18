@@ -31,6 +31,6 @@
     <project
         name        = "meta-microzed"
         remote      = "architech-boards"
-        revision    = "7cd772de79eee5af6a20be74dcfbfa3cac57f476"
+        revision    = "dizzy"
     />
 </manifest>
